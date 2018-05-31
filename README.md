@@ -12,9 +12,6 @@
   <a href="https://travis-ci.org/strapi/strapi">
     <img src="https://travis-ci.org/strapi/strapi.svg?branch=master" alt="Dependency Status" />
   </a>
-  <a href="http://slack.strapi.io">
-    <img src="http://strapi-slack.herokuapp.com/badge.svg" alt="Dependency Status" />
-  </a>
 </p>
 
 <br>
