@@ -15,3 +15,4 @@
 </p>
 
 <br>
+<p align="center"><img src="https://blog.strapi.io/content/images/2017/10/Github-Preview.png" /></p>
